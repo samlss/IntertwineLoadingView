@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IntertwineLoadingView">
+        <attr name="firstBallColor" format="color|reference"></attr>
+        <attr name="secondBallColor" format="color|reference"></attr>
+        <attr name="animDuration" format="integer"></attr>
+    </declare-styleable>
+</resources>
